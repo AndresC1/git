@@ -3,7 +3,8 @@
 }
 body{
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #181818;
 }
 #container{
     margin-right: auto;
@@ -12,7 +13,8 @@ body{
     width: 70%;
     color: rgb(106, 218, 180);
     padding: 2cm;
-    border: solid black 2px;
+    border: solid rgb(130, 190, 125) 2px;
+    min-height: 220px;
     border-radius: 20px;
 }
 #container h1{
