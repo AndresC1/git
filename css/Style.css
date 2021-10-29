@@ -7,11 +7,10 @@ body{
     background-color: #181818;
 }
 #container{
-    display: block;
-    float: left;
-    margin-left: 10%;
-    margin-top: 4cm;
-    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2cm;
+    width: 70%;
     color: rgb(106, 218, 180);
     padding: 2cm;
     border: solid rgb(130, 190, 125) 2px;
@@ -22,25 +21,36 @@ body{
     width: 500px;
     margin-right: auto;
     margin-left: auto;
-    border-radius: 30px;
 }
-#cabecera h6{
-    float: left;
-    color: black;
+.Lenguajes{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
 }
-#container-cuerpo{
+.listado{
+    margin: 0px;
+    width: 15%;
+}
+#Container-Lenguajes{
+    width: 27%;
     display: block;
     float: left;
-    margin-left: 5%;
-    margin-top: 4cm;
-    width: 30%;
+    margin-left: 4cm;
+    margin-top: 1cm;
     color: rgb(106, 218, 180);
     padding: 2cm;
     border: solid rgb(130, 190, 125) 2px;
     border-radius: 20px;
-    min-height: 200px;
+    min-height: 227px;
 }
-#container-cuerpo h5{
-    color: rgb(138, 138, 138);
-    text-align: left;
+#container-cuerpo{
+    width: 30%;
+    display: block;
+    float: left;
+    margin-left: 1cm;
+    margin-top: 1cm;
+    color: rgb(106, 218, 180);
+    padding: 2cm;
+    border: solid rgb(130, 190, 125) 2px;
+    border-radius: 20px;
 }
