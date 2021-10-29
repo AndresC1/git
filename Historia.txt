@@ -1,3 +1,6 @@
 Hola mundo
 
 esta semana no hay clase
+
+con esto pruebo que hasta ahora le estoy entendiendo
+a lo que estamos haciendo
