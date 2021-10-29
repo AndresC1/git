@@ -6,13 +6,15 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #container{
-    margin-right: auto;
-    margin-left: auto;
+    display: block;
+    float: left;
+    margin-left: 10%;
     margin-top: 4cm;
-    width: 70%;
+    width: 30%;
     color: rgb(106, 218, 180);
     padding: 2cm;
-    border: solid black 2px;
+    border: solid rgb(255, 255, 255) 2px;
+    min-height: 220px;
     border-radius: 20px;
 }
 #container h1{
