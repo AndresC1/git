@@ -14,11 +14,7 @@ body{
     width: 30%;
     color: rgb(106, 218, 180);
     padding: 2cm;
-<<<<<<< HEAD
-    border: solid rgb(119, 73, 121) 2px;
-=======
     border: solid rgb(130, 190, 125) 2px;
->>>>>>> cabecera
     min-height: 220px;
     border-radius: 20px;
 }
@@ -40,11 +36,7 @@ body{
     width: 30%;
     color: rgb(106, 218, 180);
     padding: 2cm;
-<<<<<<< HEAD
-    border: solid rgb(119, 73, 121) 2px;
-=======
     border: solid rgb(130, 190, 125) 2px;
->>>>>>> cabecera
     border-radius: 20px;
     min-height: 200px;
 }
