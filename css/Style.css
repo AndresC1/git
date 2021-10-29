@@ -4,6 +4,7 @@
 body{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #181818;
 }
 #container{
     display: block;
