@@ -22,4 +22,25 @@ body{
     width: 500px;
     margin-right: auto;
     margin-left: auto;
+    border-radius: 30px;
+}
+#cabecera h6{
+    float: left;
+    color: black;
+}
+#container-cuerpo{
+    display: block;
+    float: left;
+    margin-left: 5%;
+    margin-top: 4cm;
+    width: 30%;
+    color: rgb(106, 218, 180);
+    padding: 2cm;
+    border: solid rgb(255, 255, 255) 2px;
+    border-radius: 20px;
+    min-height: 200px;
+}
+#container-cuerpo h5{
+    color: rgb(138, 138, 138);
+    text-align: left;
 }
