@@ -32,13 +32,25 @@ body{
     width: 15%;
 }
 #Container-Lenguajes{
-    width: 30%;
+    width: 27%;
     display: block;
     float: left;
     margin-left: 4cm;
     margin-top: 1cm;
     color: rgb(106, 218, 180);
     padding: 2cm;
-    border: solid black 2px;
+    border: solid rgb(130, 190, 125) 2px;
+    border-radius: 20px;
+    min-height: 227px;
+}
+#container-cuerpo{
+    width: 30%;
+    display: block;
+    float: left;
+    margin-left: 1cm;
+    margin-top: 1cm;
+    color: rgb(106, 218, 180);
+    padding: 2cm;
+    border: solid rgb(130, 190, 125) 2px;
     border-radius: 20px;
 }
