@@ -21,3 +21,7 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+#cabecera h6{
+    float: left;
+    color: black;
+}
