@@ -1,3 +1,4 @@
 # git
 git
- listo se pudo mu panamiguel
+ 
+Ya tengo mi archivo correcto subien en el GitHub
