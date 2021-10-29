@@ -15,7 +15,7 @@ body{
     color: rgb(106, 218, 180);
     padding: 2cm;
     border: solid rgb(130, 190, 125) 2px;
-    min-height: 220px;
+    min-height: 230px;
     border-radius: 20px;
 }
 #container h1{
