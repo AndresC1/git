@@ -8,7 +8,7 @@ body{
 #container{
     margin-right: auto;
     margin-left: auto;
-    margin-top: 4cm;
+    margin-top: 2cm;
     width: 70%;
     color: rgb(106, 218, 180);
     padding: 2cm;
@@ -16,8 +16,27 @@ body{
     border-radius: 20px;
 }
 #container h1{
-    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.075);
     width: 500px;
     margin-right: auto;
     margin-left: auto;
+}
+.Lenguajes{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.listado{
+    margin: 0px;
+    width: 15%;
+}
+#Container-Lenguajes{
+    width: 30%;
+    display: block;
+    float: left;
+    margin-left: 4cm;
+    margin-top: 1cm;
+    color: rgb(106, 218, 180);
+    padding: 2cm;
+    border: solid black 2px;
+    border-radius: 20px;
 }
