@@ -14,7 +14,7 @@ body{
     width: 30%;
     color: rgb(106, 218, 180);
     padding: 2cm;
-    border: solid rgb(255, 255, 255) 2px;
+    border: solid rgb(119, 73, 121) 2px;
     min-height: 220px;
     border-radius: 20px;
 }
@@ -36,7 +36,7 @@ body{
     width: 30%;
     color: rgb(106, 218, 180);
     padding: 2cm;
-    border: solid rgb(255, 255, 255) 2px;
+    border: solid rgb(119, 73, 121) 2px;
     border-radius: 20px;
     min-height: 200px;
 }
