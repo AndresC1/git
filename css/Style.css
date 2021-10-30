@@ -4,7 +4,14 @@
 body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #181818;
+    background-color: #575757;
+}
+#header{
+    width: 100%;
+    height: 2cm;
+    background-color: black;
+    color: white;
+    line-height: 2cm;
 }
 #container{
     margin-right: auto;
@@ -53,4 +60,17 @@ body{
     padding: 2cm;
     border: solid rgb(130, 190, 125) 2px;
     border-radius: 20px;
+}
+#footer{
+    width: 100%;
+    height: 4cm;
+    background-color: black;
+    margin-top: 14cm;
+}
+.contacto{
+    color: white;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1cm;
 }
