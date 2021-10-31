@@ -14,8 +14,7 @@ body{
     line-height: 2cm;
 }
 #container{
-    margin-right: auto;
-    margin-left: auto;
+    margin-left: 10%;
     margin-top: 2cm;
     width: 70%;
     color: rgb(106, 218, 180);
@@ -39,25 +38,26 @@ body{
     width: 15%;
 }
 #Container-Lenguajes{
-    width: 27%;
+    width: 29%;
     display: block;
     float: left;
-    margin-left: 4cm;
+    margin-left: 10%;
     margin-top: 1cm;
     color: rgb(106, 218, 180);
-    padding: 2cm;
+    padding: 2cm 2cm 0cm 2cm;
     border: solid rgb(130, 190, 125) 2px;
     border-radius: 20px;
-    min-height: 227px;
+    height: 300px;
 }
 #container-cuerpo{
-    width: 30%;
+    width: 29%;
     display: block;
     float: left;
-    margin-left: 1cm;
+    margin-left: 3%;
     margin-top: 1cm;
     color: rgb(106, 218, 180);
-    padding: 2cm;
+    padding: 2cm 2cm 0cm 2cm;
+    height: 300px;
     border: solid rgb(130, 190, 125) 2px;
     border-radius: 20px;
 }
@@ -73,4 +73,11 @@ body{
     margin-left: auto;
     margin-right: auto;
     padding: 1cm;
+}
+#container h5{
+    margin-top: 5px;
+}
+#container img{
+    width: 100px;
+    float: left;
 }
